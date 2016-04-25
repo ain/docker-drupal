@@ -1,4 +1,5 @@
 # docker-drupal
+[![](https://imagelayers.io/badge/aintohvri/docker-drupal:latest.svg)](https://imagelayers.io/?images=aintohvri/docker-drupal:latest)
 Official Drupal image extended with common tools
 
 # Features
